@@ -1,2 +1,2 @@
 def deru():
-    print('buri')
+    print('buriburi')
