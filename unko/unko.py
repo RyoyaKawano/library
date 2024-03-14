@@ -1,2 +1,2 @@
-def deru():
-    print('buriburi')
+def deru(name=None):
+    print(name+"が"+'buriburi')
