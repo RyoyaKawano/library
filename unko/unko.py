@@ -7,4 +7,5 @@ def printf(contents):
     print(contents)
 
 def scanf(contents):    
-    input(contents)
+    text = input(contents)
+    return text
